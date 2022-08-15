@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-  #{% include archive-single.html %}
-#{% endfor %}
 
 ### 2022
 * **Shuqiang Chen**, Susan Redline, Uri T. Eden and Michael J. Prerau.[Dynamic Models of Obstructive Sleep Apnea Provide Robust Prediction of Respiratory Event Timing and a Statistical Framework for Phenotype Exploration](https://prerau.bwh.harvard.edu/publications/Apnea_Dynamics_Chen_2022Sleep.pdf). Sleep. 2022 Aug 6:zsac189. doi: 10.1093/sleep/zsac189. Epub ahead of print. PMID: 35932480.
