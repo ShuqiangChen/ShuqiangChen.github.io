@@ -32,7 +32,7 @@ Statistical goodness- of-fit analysis suggests consistent and substantial improv
 Sleep Apnea Dynamics
 ------
 
-## Estimating AHI Uncertainty
+## 1. Estimating AHI Uncertainty
 
 The apnea-hypopnea index (AHI) (or one of its derivatives) is the primary clinical metric for characterizing sleep disordered breathingdthe value of which with respect to a threshold determines severity of diagnosis and eligibility for treatment reimbursement. The index value, however, is taken as a perfect point estimate, with no measure of statistical uncertainty. Thus, current practice does not robustly account for variability in diagnosis/eligibility due to chance. In this paper, we quantify the statistical uncertainty associated with respiratory event indices for sleep disordered breathing and the effect of uncertainty on treatment eligibility.
 
@@ -47,7 +47,7 @@ For more details, check the online toolbox [here](https://prerau.bwh.harvard.edu
 ---
 
 
-## Apnea History Dependence
+## 2. Apnea History Dependence
 
 Obstructive sleep apnea (OSA), in which breathing is reduced or ceased during sleep, affects at least 10% of the population and is associated with numerous comorbidities. Current clinical diagnostic approaches characterize severity and treatment eligibility using the average respiratory event rate over total sleep time (apnea hypopnea index, or AHI). This approach, however, does not characterize the time-varying and dynamic properties of respiratory events that can change as a function of body position, sleep stage, and previous respiratory event activity. Here, we develop a statistical model framework based on point process theory that characterizes the relative influences of all these factors on the moment-to-moment rate of event occurrence.
 
