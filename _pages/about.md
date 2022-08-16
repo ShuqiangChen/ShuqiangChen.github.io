@@ -24,8 +24,9 @@ Here, we aim to develop a statistical modeling framework based on point process 
 
 Statistical goodness- of-fit analysis suggests consistent and substantial improvements in our ability to predict individual spindle times over current approaches. Overall, we demonstrate a more statistically robust approach to characterizing sleep spindle dynamics, which provides key insights into the mechanisms of healthy aging and neuropathology and can potentially serve as a robust biomarker for neurological disorders.
 
-#### > Abstract accepted by SfN 2022, for latest updates, welcome to check out our poster titled "Quantitative characterization of sleep spindle dynamics" in Nov. at San Diego.
----
+----
+> Abstract accepted by SfN 2022, for latest updates, welcome to check out our poster titled "Quantitative characterization of sleep spindle dynamics" in Nov. at San Diego.
+----
 
 
 Sleep Apnea Dynamics
@@ -41,7 +42,8 @@ This study shows that capturing uncertainty in AHI and related metrics is key to
 
 For more details, check the online toolbox [here](https://prerau.bwh.harvard.edu/ahi-overview/), which is a companion to the paper:
 
-#### > Thomas RJ, **Chen S**, Eden UT, Prerau MJ. [Quantifying statistical uncertainty in metrics of sleep disordered breathing](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/SDB_uncertainty_Thomas2020_SleepMed.pdf). Sleep Medicine. 2020 Jan;65:161-169. doi: 10.1016/j.sleep.2019.06.003.
+----
+> Thomas RJ, **Chen S**, Eden UT, Prerau MJ. [Quantifying statistical uncertainty in metrics of sleep disordered breathing](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/SDB_uncertainty_Thomas2020_SleepMed.pdf). Sleep Medicine. 2020 Jan;65:161-169. doi: 10.1016/j.sleep.2019.06.003.
 ---
 
 
@@ -53,7 +55,8 @@ This model acts as a highly individualized respiratory fingerprint, which we sho
 
 For more details, check the online toolbox [here](https://github.com/preraulab/Apnea_dynamics_toolbox), which is a companion to the paper:
 
-#### > **Shuqiang Chen**, Susan Redline, Uri T. Eden and Michael J. Prerau. [Dynamic Models of Obstructive Sleep Apnea Provide Robust Prediction of Respiratory Event Timing and a Statistical Framework for Phenotype Exploration](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Apnea_Dynamics_Chen_2022Sleep.pdf). Sleep. 2022 Aug 6:zsac189. doi: 10.1093/sleep/zsac189.
+---
+> **Shuqiang Chen**, Susan Redline, Uri T. Eden and Michael J. Prerau. [Dynamic Models of Obstructive Sleep Apnea Provide Robust Prediction of Respiratory Event Timing and a Statistical Framework for Phenotype Exploration](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Apnea_Dynamics_Chen_2022Sleep.pdf). Sleep. 2022 Aug 6:zsac189. doi: 10.1093/sleep/zsac189.
 ---
 
 
