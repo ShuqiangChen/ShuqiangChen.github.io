@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Teaching Fellow"
 permalink: /teaching/
 author_profile: true
