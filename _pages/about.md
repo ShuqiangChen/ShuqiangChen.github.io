@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Welcome to Shuqiang's Homepage"
+excerpt: "ShuqiangChen"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <!---
 
 ---
