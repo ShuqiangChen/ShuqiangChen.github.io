@@ -23,7 +23,7 @@ Sleep spindles are cortical electrical waveforms observed during sleep, consider
 In this work (Chen et al., 2025), using a rigorous statistical framework based on point process theory, we demonstrate that individualized temporal patterns are the dominant determinant of spindle timing, whereas sleep depth, cortical up/down-state, and long-term (infraslow) pattern, features thought to be primary drivers of spindle occurrence, are less important. This study provides a new lens on spindle production mechanisms, which will allow studies of the role of spindle timing patterns in memory consolidation, aging, and disease.
 
 ----
-> **Shuqiang Chen**, Mingjian He, Uri T. Eden, Michael J. Prerau. [Individualized temporal patterns drive human sleep spindle timing](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/SDB_uncertainty_Thomas2020_SleepMed.pdf). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121. 
+> **Shuqiang Chen**, Mingjian He, Uri T. Eden, Michael J. Prerau. [Individualized temporal patterns drive human sleep spindle timing](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Chen_spindle_dynamics_PNAS2025.pdf). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121. 
 ----
 
 
@@ -54,7 +54,7 @@ This model acts as a highly individualized respiratory fingerprint, which we sho
 For more details, check the online toolbox [here](https://github.com/preraulab/Apnea_dynamics_toolbox), which is a companion to the paper:
 
 ---
-> **Shuqiang Chen**, Susan Redline, Uri T. Eden and Michael J. Prerau. [Dynamic Models of Obstructive Sleep Apnea Provide Robust Prediction of Respiratory Event Timing and a Statistical Framework for Phenotype Exploration](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Apnea_Dynamics_Chen_2022Sleep.pdf). Sleep. 2022 Aug 6:zsac189. doi: 10.1093/sleep/zsac189.
+> **Shuqiang Chen**, Susan Redline, Uri T. Eden and Michael J. Prerau. [Dynamic Models of Obstructive Sleep Apnea Provide Robust Prediction of Respiratory Event Timing and a Statistical Framework for Phenotype Exploration](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Chen_apnea_dynamics_Sleep2022.pdf). Sleep. 2022 Aug 6:zsac189. doi: 10.1093/sleep/zsac189.
 ---
 
 
