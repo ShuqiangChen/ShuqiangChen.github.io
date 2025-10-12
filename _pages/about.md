@@ -25,7 +25,7 @@ In this work (Chen et al., 2025), using a rigorous statistical framework based o
 For more details, check the online toolbox [here](https://prerau.bwh.harvard.edu/sleep-spindle-dynamics-toolbox/), which is in companion to the paper:
 
 ----
-> **Shuqiang Chen**, Mingjian He, Uri T. Eden, Michael J. Prerau. [Individualized temporal patterns drive human sleep spindle timing](https://github.com/ShuqiangChen/ShuqiangChen.github.io/blob/master/files/Chen_spindle_dynamics_PNAS2025.pdf). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121. 
+> **Shuqiang Chen**, Mingjian He, Uri T. Eden, Michael J. Prerau. [Individualized temporal patterns drive human sleep spindle timing](https://www.pnas.org/doi/10.1073/pnas.2405276121). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121. 
 ----
 
 
