@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a PhD student in neuroscience (computational track) at Boston Univeristy, mentored by Drs. [Uri Eden](https://www.bu.edu/math/people/faculty/probability-and-statistics/eden/) and [Michael Prerau](https://prerau.bwh.harvard.edu) (BWH).
+I am a postdoctoral research fellow in the Division of Sleep Medicine at Harvard Medical School and Brigham and Women’s Hospital. I am fortunate to be mentored by Dr. [Michael Prerau](https://prerau.bwh.harvard.edu) and Dr. [Uri Eden](https://www.bu.edu/math/profile/uri-eden/), whose mentorship has guided and shaped my growth from doctoral training through postdoctoral research.
 
 Research 
 ======
-My research focuses on developing and applying statistical approaches to analyze neural data. In particular, I'm interested in sleep, memory and brain rhythms.
+My research lies at the intersection of sleep medicine, neuroscience, and statistical modeling, with a focus on how brain dynamics during sleep shape health and aging, regulate brain–body interactions, and reveal mechanisms underlying neurological and psychiatric dysfunction. Leveraging advanced computational approaches, my work seeks to uncover individualized neural signatures and identify biomarkers that advance diagnosis and treatment.
 
 Sleep Spindle Dynamics
 ------
