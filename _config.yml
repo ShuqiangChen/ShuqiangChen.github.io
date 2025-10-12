@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuqiang Chen / 陈书强"
+title                    : "Shuqiang Chen 陈书强"
 title_separator          : "-"
 name                     : &name "Shuqiang Chen"
 description              : &description "PhD student in Comp Neuro"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuqiang Chen"
-  avatar           : "SCprofile.png"
+  avatar           : "SCprofile.jpg"
   bio              : "PhD Student in Comp Neuro"
   location         : "Boston, MA"
   employer         :
