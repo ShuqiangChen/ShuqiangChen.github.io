@@ -1,6 +1,6 @@
 ---
 title: "Characterizing Sleep Spindle Temporal Dynamics"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/spindle.png'>"
+excerpt: "Sleep spindles are transient oscillations during NREM sleep that are critical for memory consolidation. While spindle activity is known to influenced by sleep stage, cortical up/down states, and infraslow activity, their relative contributions have remained unclear. In this work (Chen et al., 2025), we use a statistical framework to show that individualized temporal patterns are the primary drivers of spindle timing, revealing new insights into spindle production and offering an alternative lens for studying their role in memory, aging, and disease. <br/><img src='/images/spindle.png'>"
 collection: portfolio
 ---
 
