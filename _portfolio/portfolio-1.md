@@ -5,7 +5,7 @@ excerpt: "Sleep spindles are transient oscillations during NREM sleep that are c
 For more details, check the online toolbox [here](https://prerau.bwh.harvard.edu/sleep-spindle-dynamics-toolbox/), which is in companion to the paper:<br/><br/><br/>
 ----
 >**Shuqiang Chen**, Mingjian He, Uri T. Eden, Michael J. Prerau. [Individualized temporal patterns drive human sleep spindle timing](https://www.pnas.org/doi/10.1073/pnas.2405276121). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121.  "
-----
+
 collection: portfolio
 ---
 
