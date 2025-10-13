@@ -1,4 +1,3 @@
-
 ---
 title: "Estimating AHI Uncertainty"
 excerpt: "Obstructive sleep apnea (OSA), marked by reduced or paused breathing during sleep, affects over 10% of the population and is tied to numerous comorbidities. Diagnosis and treatment decisions rely on the apnea–hypopnea index (AHI), yet it is treated as an exact point estimate without accounting for statistical uncertainty. In this work, we quantify that uncertainty using non-parametric bootstrap and theoretical Poisson approaches applied to data from over 2,000 participants in the MESA cohort, revealing that variability is substantial relative to clinical thresholds. Incorporating uncertainty and additional patient data is essential for more accurate diagnosis and treatment decisions. <br/><br/> <img src='/images/AHI.png'>
