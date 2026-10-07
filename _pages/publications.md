@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=KE79PWEAAAAJ&hl=en&authuser=1) 
+[Google Scholar](https://scholar.google.com/citations?user=2MlmBKoAAAAJ&hl=en&authuser=1)
 
 ### 2025
 * **Chen S**, He M, Brown RE, Eden UT, Prerau MJ. [Individualized temporal patterns drive human sleep spindle timing](https://www.pnas.org/doi/10.1073/pnas.2405276121). Proc Natl Acad Sci U S A (2025);122(2):e2405276121. doi: 10.1073/pnas.2405276121. 
