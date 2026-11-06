@@ -1,0 +1,28 @@
+# paper: the "key" of an entry in publications.yml
+
+- id: spindle
+  title: "Characterizing Sleep Spindle Temporal Dynamics"
+  text: >-
+    Sleep spindles are transient oscillations during NREM sleep that are critical for memory consolidation. While spindle activity is known to be influenced by sleep stage, cortical up/down states, and infraslow activity, their relative contributions have remained unclear. In this work, we use a statistical framework to show that individualized temporal patterns are the primary drivers of spindle timing, revealing new insights into spindle production and offering an alternative lens for studying their role in memory, aging, and disease.
+  image: /images/spindle.png
+  image_alt: "Figure from the sleep spindle timing study"
+  toolbox: "https://prerau.bwh.harvard.edu/sleep-spindle-dynamics-toolbox/"
+  paper: spindle
+
+- id: apnea
+  title: "Obstructive Sleep Apnea Dynamics"
+  text: >-
+    The AHI has been shown to be a poor descriptor of Obstructive Sleep Apnea (OSA). As a simple average respiratory event rate, it fails to capture the rich temporal structure and dynamic properties of these events, which vary continuously with factors such as body position, sleep stage, and prior respiratory activity. Here, we develop a statistical modeling framework based on point process theory that quantifies the relative influence of these factors on the moment-to-moment probability of event occurrence. This approach generates a highly individualized respiratory “fingerprint” capable of accurately predicting the precise timing of future events and reveals robust differences by age, sex, and race in a large population. Together, these advances offer a more detailed and dynamic characterization of OSA at both individual and population levels, with significant potential to improve patient phenotyping and outcome prediction.
+  image: /images/apnea.png
+  image_alt: "Figure from the obstructive sleep apnea dynamics study"
+  toolbox: "https://prerau.bwh.harvard.edu/sleep-apnea-dynamics-toolbox/"
+  paper: apnea
+
+- id: ahi
+  title: "Estimating AHI Uncertainty"
+  text: >-
+    Obstructive sleep apnea (OSA), marked by reduced or paused breathing during sleep, affects over 10% of the population and is tied to numerous comorbidities. Diagnosis and treatment decisions rely on the apnea–hypopnea index (AHI), yet it is treated as an exact point estimate without accounting for statistical uncertainty. In this work, we quantify that uncertainty using non-parametric bootstrap and theoretical Poisson approaches applied to data from over 2,000 participants in the MESA cohort, revealing that variability is substantial relative to clinical thresholds. Incorporating uncertainty and additional patient data is essential for more accurate diagnosis and treatment decisions.
+  image: /images/AHI.png
+  image_alt: "Figure from the AHI uncertainty study"
+  toolbox: "https://prerau.bwh.harvard.edu/ahi-overview/"
+  paper: ahi

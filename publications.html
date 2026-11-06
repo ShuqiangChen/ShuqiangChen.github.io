@@ -1,0 +1,12 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+<section>
+  <h2>Publications</h2>
+  <p class="section-link"><a href="https://scholar.google.com/citations?user=2MlmBKoAAAAJ&amp;hl=en&amp;authuser=1">Full list on Google Scholar&nbsp;→</a></p>
+  {%- for pub in site.data.publications %}
+  <div class="pub">{% include citation.html pub=pub %}</div>
+  {%- endfor %}
+</section>

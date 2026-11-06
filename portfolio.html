@@ -1,0 +1,18 @@
+---
+layout: default
+title: Research Projects
+permalink: /portfolio/
+---
+<section>
+  <h2>Research Projects</h2>
+  {%- for project in site.data.projects %}
+  <article class="project" id="{{ project.id }}">
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.text }}</p>
+    <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt }}" loading="lazy">
+    <p class="toolbox"><a href="{{ project.toolbox }}">Online toolbox&nbsp;→</a></p>
+    {%- assign pub = site.data.publications | where: "key", project.paper | first %}
+    <div class="pub">{% include citation.html pub=pub %}</div>
+  </article>
+  {%- endfor %}
+</section>

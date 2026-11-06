@@ -1,0 +1,13 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching/
+---
+<section>
+  <h2>Teaching Fellow</h2>
+  <ul class="dashes">
+    {%- for item in site.data.teaching %}
+    <li>{{ item.course | escape }}<span class="venue">{{ item.where }}</span></li>
+    {%- endfor %}
+  </ul>
+</section>

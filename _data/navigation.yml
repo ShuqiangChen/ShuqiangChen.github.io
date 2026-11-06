@@ -1,0 +1,9 @@
+# The tabs under the header.
+- title: About
+  url: /
+- title: Research Projects
+  url: /portfolio/
+- title: Publications
+  url: /publications/
+- title: Teaching
+  url: /teaching/
