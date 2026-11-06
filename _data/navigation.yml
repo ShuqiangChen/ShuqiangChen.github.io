@@ -1,24 +1,9 @@
-# main links links
-main:
-
-  - title: "Research"
-    url: /portfolio/
-  
-  - title: "Publications"
-    url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+# The tabs under the header.
+- title: About
+  url: /
+- title: Research Projects
+  url: /portfolio/
+- title: Publications
+  url: /publications/
+- title: Teaching
+  url: /teaching/

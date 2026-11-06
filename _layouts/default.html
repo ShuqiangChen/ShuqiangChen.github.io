@@ -1,31 +1,54 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%233f5f8a'/%3E%3Cpath d='M9 12v8M16 7v18M23 11v10' stroke='%23fff' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="page">
+    {%- assign person = site.person %}
+    <header class="intro">
+      <img class="photo" src="{{ person.photo | relative_url }}" alt="Portrait of Shuqiang Chen" width="480" height="480">
+      <div class="intro-text">
+        <h1>{{ person.name }} <span lang="zh">{{ person.name_zh }}</span></h1>
+        <div class="affiliation">
+          <p class="role">{{ person.role | escape }}</p>
+          {%- for line in person.affiliation %}
+          <p>{{ line | escape }}</p>
+          {%- endfor %}
+        </div>
+        <div class="contact">
+          <p><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+          <p class="profiles">
+            {%- for link in person.links -%}
+            <a href="{{ link.url | escape }}">{{ link.label }}</a>
+            {%- endfor -%}
+          </p>
+        </div>
+      </div>
+    </header>
 
-  <body>
+    <nav class="tabs" aria-label="Main">
+      {%- for item in site.data.navigation %}
+      <a href="{{ item.url | relative_url }}"{% if page.url == item.url or page.url == '/index.html' and item.url == '/' %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor %}
+    </nav>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% if site.announcement and site.announcement != "" %}
+    <aside class="notice">{{ site.announcement | markdownify }}</aside>
+    {% endif %}
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+    <main>
+{{ content }}
+    </main>
+  </div>
+</body>
 </html>
